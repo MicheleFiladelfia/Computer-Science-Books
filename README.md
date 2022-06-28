@@ -1,5 +1,5 @@
 # Computer Science Books
-**Being a reader of many computer science books, I have not yet found a good list of recommended books, so i am trying to do it by myself. If you want to contribute, please contact me from my [website](https://michelefiladelfia.github.io/) or my [telegram](https://t.me/Mic04_7).**
+**Being a reader of many computer science books, I have not yet found a good list of recommended books, so i am trying to do it by myself. If you want to contribute, contact me or make a pull request.**
 
 **For free books there is the link where to find them**
 

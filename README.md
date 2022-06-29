@@ -9,7 +9,6 @@
 	- Grooking Algorithms (978-1617292231)
 	- Algorithm Design (978-1292023946)
 - **Programming Principles and Software Engineering**
-	- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf)
 	- Clean Code (978-0132350884)
 	- The Pragmatic Programmer (978-0135957059)
 	- Code Complete (978-0735619678)
@@ -22,11 +21,14 @@
 	- Beginning C++20 (978-1484258835)
 	- The C++ Programming Language (978-0321563842)
 - **Python**
-	- [Think in python](https://greenteapress.com/wp/think-python-2e/)
+	- [Think in python](https://greenteapress.com/wp/think-python-2e/) (978-1491939369)
 - **Javascript**
 	- Eloquent Javascript (978-1593279509)
 - **Competitive Programming**
 	- Guide to Competitive Programming (978-3319725468)
 	- Competitive Programming 4 (978-1716745522) (978-1716745515)
+- **Building Interpreters**
+	- [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) (978-0262510875)
+	- [Crafting Interpreters](https://craftinginterpreters.com/) (978-0990582939)
 - **Others**
-	- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf)
+	- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (978-9888407064)

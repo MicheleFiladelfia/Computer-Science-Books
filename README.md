@@ -4,6 +4,7 @@
 **For free books there is the link where to find them**
 
 - **Algorithms and Data structures**
+	- The Art of Computer Programming (978-0321751041) (978-0201038064)
 	- Introduction to Algorithms (978-0262046305)
 	- The Algorithm Design Manual (978-3030542559)
 	- Grooking Algorithms (978-1617292231)

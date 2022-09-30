@@ -39,3 +39,8 @@
 - **Computer Science Math**
 	- [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) (978-9888407064)
 	- Concrete Mathematics (978-0201558029)
+- **Artificial Intelligence**
+	- Artificial Intelligence: A Modern Approach (978-1292401133)
+	- Machine Learning: An Algorithmic Perspective (978-1466583283)
+	- [Deep Learning](https://www.deeplearningbook.org/)
+

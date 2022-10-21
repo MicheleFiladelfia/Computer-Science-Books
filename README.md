@@ -16,7 +16,12 @@
 	- Code Complete 2nd Edition (978-0735619678)
 	- Refactoring (978-0134757599)
 	- Design Patterns (978-0201633610)
+- **Distributed Systems**
 	- Designing Data-Intensive Applications (978-1449373320)
+- **Computer Architecture**
+	- Computer Systems: A Programmer's Perspective (978-0134092669)
+- **Computer Networking**
+	- Computer Networking: A Top-Down Approach (978-0133594140)
 - **C**
 	- C Programming: A Modern Approach (978-0393979503)
 	- The C Programming Language (978-0131101630)

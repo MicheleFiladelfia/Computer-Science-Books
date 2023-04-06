@@ -48,4 +48,7 @@
 	- Artificial Intelligence: A Modern Approach (978-1292401133)
 	- Machine Learning: An Algorithmic Perspective (978-1466583283)
 	- [Deep Learning](https://www.deeplearningbook.org/)
-
+- **Cryptography**
+	- Real-World Cryptography (978-1617296710)
+	- Serious Cryptography (978-1593278267)
+	- [Introduction to Modern Cryptography](http://staff.ustc.edu.cn/~mfy/moderncrypto/reading%20materials/Introduction_to_Modern_Cryptography.pdf)
